@@ -1,0 +1,26 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+score{
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+score ul {
+    list-style-type: none;
+    padding: 0;
+}
+			
+score ul a {
+    text-decoration: none;
+}
+.snake_style
+{
+	margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
