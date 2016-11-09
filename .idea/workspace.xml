@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a21f82-8dde-46fd-991d-19b323d39ee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Snake.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/snake.css" afterPath="$PROJECT_DIR$/css/snake.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/NewSnake.js" afterPath="$PROJECT_DIR$/js/NewSnake.js" />
     </list>
     <ignored path="Snake.iws" />
@@ -28,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NewSnake.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NewSnake.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/NewSnake.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="248" column="24" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="24" />
+            <state relative-caret-position="268">
+              <caret line="247" column="41" selection-start-line="247" selection-start-column="41" selection-end-line="247" selection-end-column="41" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
                 <element signature="e#2555#2633#0" expanded="false" />
@@ -53,31 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="snake.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="snake.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snake.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snake.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/snake.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -102,8 +77,8 @@
         <option value="$PROJECT_DIR$/css/snake.css" />
         <option value="$PROJECT_DIR$/Snake.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/js/NewSnake.js" />
         <option value="$PROJECT_DIR$/snake.html" />
+        <option value="$PROJECT_DIR$/js/NewSnake.js" />
       </list>
     </option>
   </component>
@@ -114,8 +89,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="329" />
-    <option name="y" value="92" />
+    <option name="y" value="51" />
     <option name="width" value="985" />
     <option name="height" value="696" />
   </component>
@@ -197,38 +171,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Snake" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Snake" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Snake" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Snake" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,15 +324,15 @@
       <workItem from="1478521243650" duration="13156000" />
       <workItem from="1478592261610" duration="18918000" />
       <workItem from="1478611987547" duration="7479000" />
-      <workItem from="1478679506567" duration="10250000" />
+      <workItem from="1478679506567" duration="11225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49803000" />
+    <option name="totallyTimeSpent" value="50778000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="329" y="92" width="985" height="696" extended-state="0" />
+    <frame x="0" y="51" width="985" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18209563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -500,10 +442,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/snake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/NewSnake.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="248" column="24" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="24" />
+        <state relative-caret-position="268">
+          <caret line="247" column="41" selection-start-line="247" selection-start-column="41" selection-end-line="247" selection-end-column="41" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
             <element signature="e#2555#2633#0" expanded="false" />
@@ -520,14 +470,6 @@
             <element signature="e#6585#6673#0" expanded="false" />
             <element signature="e#6717#6798#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snake.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

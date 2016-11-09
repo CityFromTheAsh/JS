@@ -241,7 +241,7 @@ function GameStart()
     area.field(gameField);
     snake.createNewSnake(10,10);
     snake.field.fieldSet(globalX,globalY);
-    snake.newApple(5,6);
+    snake.createNewApple(5,6);
     interval = false;
 }
 
