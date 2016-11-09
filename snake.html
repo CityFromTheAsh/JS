@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html>
+ <head>
+ <link rel="stylesheet" href="css/snake.css">
+	<meta charset="utf-8">
+	<meta name="robots" content="noindex">
+    <title>Snake</title>
+    <script src="js/NewSnake.js"></script>
+    <script type="text/javascript"></script>
+</head>
+<body onkeypress="EventOnKeyPress(event)">
+    <h1 id="h">Snake</h1>
+    <p id="snakeLength"></p>
+    <div class="parent">
+        <div class="inner">
+            <canvas class="snake" id="snake_canvas" width="400" height="300" style="border:1px solid #000000;">
+            </canvas>
+            <div class="text-block">
+                <p id="text1"></p><br>
+                <p id="text2"></p><br>
+                <p id="text3"></p><br>
+                <button type="button" onclick="GameStart()">Game Start!</button>
+            </div>
+            </div>
+        </div>
+</body>
+</html> 

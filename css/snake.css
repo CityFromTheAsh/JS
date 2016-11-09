@@ -1,26 +1,35 @@
-div.container {
-    width: 100%;
-    border: 1px solid gray;
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: khaki;
 }
-score{
+body {
+    background-image:  url("images/6962bec67a34bfc116325f1f99cb035d.jpg");
+    background-size: 100%;
+    color: gold;
+    margin: 10%;
+}
+h1{
+    font-family: "Times New Roman";
+    font-size: 72px;
+    margin-left: 40%;
+}
+.parent{
+    margin-left: 30%;
+    height: 400px;
+}
+.inner{
+    vertical-align: top;
+    padding: 5px;
+    background-color: gray;
+    margin-right: 30%;
+    height: 300px;
+}
+#snake_canvas, #content {
+    background-color: white;
     float: left;
-    max-width: 160px;
-    margin: 0;
-    padding: 1em;
+    left: auto;
+    right: auto;
 }
-
-score ul {
-    list-style-type: none;
-    padding: 0;
-}
-			
-score ul a {
-    text-decoration: none;
-}
-.snake_style
-{
-	margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
+.text-block{
 }
